@@ -1,0 +1,5 @@
+{
+  "name": "L.A to O.C Plumbing Pro",
+  "description": "Professional plumbing services serving Los Angeles and Orange County. Expert emergency repairs, drain cleaning, and water heater services.",
+  "requestFramePermissions": ["geolocation"]
+}
